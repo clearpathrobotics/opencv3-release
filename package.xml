@@ -13,7 +13,7 @@
 
   <author>The OpenCV team</author>
 
-  <build_depend>ffmpeg</build_depend>
+  <build_depend version_gte="6:11.3">ffmpeg</build_depend>
   <build_depend>jasper</build_depend>
   <build_depend>libjpeg</build_depend>
   <build_depend>libpng12-dev</build_depend>
@@ -28,7 +28,7 @@
   <buildtool_depend>cmake</buildtool_depend>
 
   <run_depend>catkin</run_depend>
-  <run_depend>ffmpeg</run_depend>
+  <run_depend version_gte="6:11.3">ffmpeg</run_depend>
   <run_depend>jasper</run_depend>
   <run_depend>libjpeg</run_depend>
   <run_depend>libpng12-dev</run_depend>
