@@ -2,8 +2,8 @@
 Changelog for package opencv3
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+3.2.1 (2017-04-12)
+------------------
 * Merge pull request `#1 <https://github.com/clearpathrobotics/opencv3-release/issues/1>`_ from clearpathrobotics/fix_dependency_version
   depend on specific version of ffmmpeg packages
 * depend on specific version of ffmmpeg packages
